@@ -11,8 +11,8 @@ export const PROFILE = {
 
 export const SOCIALS = [
     { id: "github", label: "github.exe", url: "https://github.com/Arckei" },
-    { id: "facebook", label: "facebook.exe", url: "https://facebook.com/keithwilson.gayto" },
-    { id: "tiktok", label: "tiktok.exe", url: "https://tiktok.com/@keithwilson.gayto" },
+    { id: "facebook", label: "facebook.exe", url: "https://www.facebook.com/keithwilsongayto25" },
+    { id: "tiktok", label: "tiktok.exe", url: "https://www.tiktok.com/@arckei_12" },
     { id: "email", label: "mail.sh", url: "mailto:keithwilsongayto@gmail.com" },
 ];
 
